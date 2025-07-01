@@ -2,16 +2,16 @@
   <img height="207" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="welcome gif" />
 </div>
 
-## 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇮🇳
+## 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇧🇷
 
 ### 🚀 Explore my portfolio: [DynamicPhillic.vercel.app](https://DynamicPhillic.vercel.app)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divine-P-77777&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Divine-P-77777&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -19,12 +19,9 @@
 ### 🧠 Tech Stack
 
 <div align="left">
-  <!-- Core Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-
-  <!-- JS Frameworks -->
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
@@ -32,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" />
-
-  <!-- TypeScript + Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -103,8 +98,6 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/XP8kV1sQnHF9AL30GE/200w.gif" alt="coding gif" />
 
 ---
-
-### 👁️ Visitors Count
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Divine-P-77777/count.svg?start=181" alt="Visitor counter" />
