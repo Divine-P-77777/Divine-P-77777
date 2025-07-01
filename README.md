@@ -59,7 +59,7 @@
 
 ---
 
-### 🧠 AI | Data Science | ML
+###  AI | Data Science | ML
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" />
