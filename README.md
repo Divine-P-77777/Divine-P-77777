@@ -1,34 +1,102 @@
-<h1 align="center">Hi 👋, I'm Deepak Prasad</h1>
-<h3 align="center">Passionate about full stack development & stunning UI design</h3>
+<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" height="90" style="display: block; margin: auto;" alt="Google Logo" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divine-p-77777&label=Profile%20views&color=0e75b6&style=flat" alt="divine-p-77777" /> </p>
+# 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇮🇳
 
-<p align="left"> <a href="https://twitter.com/collabdynphilic" target="blank"><img src="https://img.shields.io/twitter/follow/collabdynphilic?logo=twitter&style=for-the-badge" alt="collabdynphilic" /></a> </p>
+### 🚀 Explore my portfolio: [DynamicPhillic.vercel.app](https://DynamicPhillic.vercel.app)
 
-- 🌱 I’m currently learning **Typescript**
+---
 
-- 👨‍💻 All of my projects are available at [DynamicPhillic.vercel.app](DynamicPhillic.vercel.app)
+<div align="center">
+  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula" height="140" style="max-width: 100%;" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Divine-P-77777&theme=dracula&hide_border=false" height="140" style="max-width: 100%;" alt="GitHub streak" />
+  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=5&theme=dark" height="140" style="max-width: 100%;" alt="Top Languages" />
+</div>
 
-- 📝 I regularly write articles on [https://dynamicphillicactivities.vercel.app/Blog](https://dynamicphillicactivities.vercel.app/Blog)
+---
 
-- 📫 How to reach me **dynamicphillic77777@gmail.com**
+### 🧠 Tech Stack
 
-- ⚡ Fun fact **Turning Coffee into Code & Ideas into Reality**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="max-width: 100%;" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/collabdynphilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="collabdynphilic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dynamicphillic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dynamicphillic" height="30" width="40" /></a>
-<a href="https://kaggle.com/deepakprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepakprasad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dynamicphillic71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dynamicphillic71" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wiclq64dhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wiclq64dhm" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 💻 Tools & Platforms
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divine-p-77777&show_icons=true&locale=en&layout=compact" alt="divine-p-77777" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" style="max-width: 100%;" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" style="max-width: 100%;" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divine-p-77777&show_icons=true&locale=en" alt="divine-p-77777" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divine-p-77777&" alt="divine-p-77777" /></p>
+### 🧩 Databases
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="max-width: 100%;" />
+</div>
+
+---
+
+### 🤖 AI | Data Science | ML
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" style="max-width: 100%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" style="max-width: 100%;" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="40" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="max-width: 100%;" />
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="left">
+  <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deepak-prasad-799128259/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
+  <a href="https://x.com/CollabDynPhilic" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/dynamicphillic71" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" /></a>
+  <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" /></a>
+</div>
+
+---
+
+### 🎮 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divine-P-77777/Divine-P-77777/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divine-P-77777/Divine-P-77777/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Divine-P-77777/Divine-P-77777/output/pacman-contribution-graph.svg" style="max-width: 100%;" />
+</picture>
+
+---
+
+### ☕ Turning Coffee into Code & Ideas into Reality
+
+<img align="right" height="150" style="max-width: 100%;" src="https://media3.giphy.com/media/XP8kV1sQnHF9AL30GE/200w.gif" alt="coding gif" />
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Divine-P-77777/count.svg?start=181" alt="Visitor counter" />
+</div>
