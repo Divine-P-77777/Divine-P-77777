@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="207" src="https://i.pinimg.com/originals/c8/7c/81/c87c81e04336ced70178f3a5979d994c.gif" style=" border-radius: 105px;border:2px solid #58e1fc;" />
+  <img height="150" src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image.png?updatedAt=1751731412409" style=" border-radius: 15px;border:2px solid #58e1fc;" />
 </div>
 
 # 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇮🇳
@@ -21,32 +21,32 @@
 <div align="left">
 
 
-  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image.png?updatedAt=1751730561651" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(2).png?updatedAt=1751732343921" height="40" style="max-width: 100%;" />
 
-  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(1).png?updatedAt=1751730561123" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image.png?updatedAt=1751732344724" height="40" style="max-width: 100%;" />
   
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(3).png?updatedAt=1751732344388" height="40" style="max-width: 100%;" />
 
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(12).png?updatedAt=1751732348672" height="40" style="max-width: 100%;" />
 
   <img src="https://skillicons.dev/icons?i=express" height="40" style="max-width: 100%;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(11).png?updatedAt=1751732347055" height="40" style="max-width: 100%;" />
 
   <img src="https://skillicons.dev/icons?i=redux" height="40" style="max-width: 100%;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(10).png?updatedAt=1751732347271" height="40" style="max-width: 100%;" />
 
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="max-width: 100%;" />
 
   <img src="https://skillicons.dev/icons?i=vite" height="40" style="max-width: 100%;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(9).png?updatedAt=1751732344389" height="40" style="max-width: 100%;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="max-width: 100%;" />
+
 </div>
 
 ---
@@ -55,10 +55,15 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" style="max-width: 100%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" style="max-width: 100%;" />
+
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(4).png?updatedAt=1751732344425" height="40" style="max-width: 100%;" />
+
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=supabase" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=vercel" height="40" style="max-width: 100%;" />
+
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" style="max-width: 100%;" />
 </div>
 
@@ -67,9 +72,11 @@
 ### 🧩 Databases
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" style="max-width: 100%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="max-width: 100%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="max-width: 100%;" />
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(5).png?updatedAt=1751732344327" height="40" style="max-width: 100%;border-radius:50px" />
+
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(6).png?updatedAt=1751732343847" height="40" style="max-width: 100%;" />
+
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(7).png?updatedAt=1751732344409" height="40" style="max-width: 100%;" />
 </div>
 
 ---
@@ -77,10 +84,14 @@
 ### 🤖 AI | Data Science | ML
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" style="max-width: 100%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="max-width: 100%;" />
+
+
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(8).png?updatedAt=1751732344838" height="40" style="max-width: 100%;" />
+
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" style="max-width: 100%;" />
+
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="max-width: 100%;" />
 </div>
 
