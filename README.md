@@ -1,17 +1,15 @@
-<div align="center">
-  <img height="207" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="welcome gif" />
-</div>
+![welcome gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-## 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇧🇷
+# 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇮🇳
 
 ### 🚀 Explore my portfolio: [DynamicPhillic.vercel.app](https://DynamicPhillic.vercel.app)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Divine-P-77777&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
-  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula" height="140" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Divine-P-77777&theme=dracula&hide_border=false" height="140" alt="GitHub streak" />
+  <img src="https://github-readme-stats-brown-tau-72.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=5&theme=dark" height="140" alt="Top Languages" />
 </div>
 
 ---
@@ -59,7 +57,7 @@
 
 ---
 
-###  AI | Data Science | ML
+### 🤖 AI | Data Science | ML
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" />
@@ -71,14 +69,14 @@
 
 ---
 
-### 🌐 Let's connect with Me
+### 🌐 Let's Connect
 
 <div align="left">
-  <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" /></a>
-  <a href="https://www.linkedin.com/in/deepak-prasad-799128259/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" /></a>
-  <a href="https://x.com/CollabDynPhilic" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" /></a>
-  <a href="https://www.hackerrank.com/profile/dynamicphillic71" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" /></a>
-  <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" /></a>
+  <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deepak-prasad-799128259/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
+  <a href="https://x.com/CollabDynPhilic" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/dynamicphillic71" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" /></a>
+  <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" /></a>
 </div>
 
 ---
