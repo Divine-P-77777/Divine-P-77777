@@ -2,7 +2,6 @@
   <img height="207" src="https://i.pinimg.com/originals/c8/7c/81/c87c81e04336ced70178f3a5979d994c.gif" style=" border-radius: 105px;border:2px solid #58e1fc;" />
 </div>
 
-
 # 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇮🇳
 
 ### 🚀 Explore my portfolio: [DynamicPhillic.vercel.app](https://DynamicPhillic.vercel.app)
@@ -20,18 +19,33 @@
 ### 🧠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="max-width: 100%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="max-width: 100%;" />
+
+
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image.png?updatedAt=1751730561651" height="40" style="max-width: 100%;" />
+
+  <img src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(1).png?updatedAt=1751730561123" height="40" style="max-width: 100%;" />
+  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="max-width: 100%;" />
+
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=express" height="40" style="max-width: 100%;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=redux" height="40" style="max-width: 100%;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="max-width: 100%;" />
+
   <img src="https://skillicons.dev/icons?i=vite" height="40" style="max-width: 100%;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="max-width: 100%;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="max-width: 100%;" />
 </div>
 
