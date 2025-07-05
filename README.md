@@ -71,7 +71,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's connect with Me
 
 <div align="left">
   <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" /></a>
