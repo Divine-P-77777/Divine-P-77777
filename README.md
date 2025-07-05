@@ -96,15 +96,8 @@
   <a href="mailto:dynamicphillic77777@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" /></a>
 </div>
 
----
 
-### 🎮 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divine-P-77777/Divine-P-77777/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divine-P-77777/Divine-P-77777/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Divine-P-77777/Divine-P-77777/output/pacman-contribution-graph.svg" style="max-width: 100%;" />
-</picture>
 
 ---
 
