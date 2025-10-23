@@ -3,18 +3,20 @@
     height="150" 
     src="https://ik.imagekit.io/sdm2vyawn77777/Logo/image(1).png?updatedAt=1751732344796" 
     style="border-radius: 15px; border: 2px solid #00ffff; box-shadow: 0 0 15px #00ffff, 0 0 30px #00ffff;" 
+    alt="Deepak Prasad Logo"
   />
 </div>
 
-# 👋 Hi! I'm Deepak Prasad — Full Stack Developer from Bharat 🇮🇳
+# 👋 Hi! I'm **Deepak Prasad**  
+### 💻 Full Stack Developer from Bharat 🇮🇳
 
-### 🚀 Explore my portfolio: [DynamicPhillic.vercel.app](https://DynamicPhillic.vercel.app)
+🚀 **Explore my portfolio:** [DynamicPhillic.vercel.app](https://DynamicPhillic.vercel.app)
 
 ---
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-brown-tau-72.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula" 
     height="140" 
     style="max-width: 100%; border-radius: 10px; border: 1px solid #00ffff; box-shadow: 0 0 8px #00ffff;" 
     alt="GitHub stats" 
@@ -26,7 +28,7 @@
     alt="GitHub streak" 
   />
   <img 
-    src="https://github-readme-stats-brown-tau-72.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=5&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=6&theme=dracula" 
     height="140" 
     style="max-width: 100%; border-radius: 10px; border: 1px solid #00ffff; box-shadow: 0 0 8px #00ffff;" 
     alt="Top Languages" 
@@ -97,7 +99,7 @@
   <a href="https://www.linkedin.com/in/deepak-prasad-799128259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="40" />
   </a>
-  <a href="https://x.com/CollabDynPhilic" target="_blank">
+  <a href="https://x.com/CollabDynPhillic" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/dynamicphillic71" target="_blank">
@@ -117,5 +119,5 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Divine-P-77777/count.svg?start=181" alt="Visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Divine-P-77777&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views Counter" />
 </div>
