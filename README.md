@@ -18,36 +18,14 @@
 
 <div align="center">
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Divine-P-77777&show_icons=true&theme=dracula&hide_border=true&count_private=true" 
-    height="140" 
-    alt="GitHub Stats" 
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=Divine-P-77777&theme=dracula&hide_border=true" 
-    height="140" 
-    alt="GitHub Streak" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&theme=dracula&hide_border=true" 
-    height="140" 
-    alt="Top Languages" 
-  />
+![](https://github-readme-stats.vercel.app/api?username=Divine-P-77777&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Divine-P-77777&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-P-77777&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Divine-P-77777&theme=dracula&no-frame=true&no-bg=false&margin-w=8" 
-    alt="GitHub Trophies" 
-  />
-</div>
 
 ---
 
@@ -127,14 +105,15 @@
 ---
 
 ### ☕ Turning Coffee into Code & Ideas into Reality
-
-<img align="right" height="150" src="https://media3.giphy.com/media/XP8kV1sQnHF9AL30GE/200w.gif" alt="coding gif" />
+<div align="center">
+<img align="center" height="150" src="https://media3.giphy.com/media/XP8kV1sQnHF9AL30GE/200w.gif" alt="coding gif" />
+</div>
+<br><br>
 
 ---
-
 <p align="center">  
   ☕ If you enjoy my projects, you can buy me a tea 💙  
-  <br><br>
+  
   <a href="https://paypal.me/dynamicphillic">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
@@ -149,6 +128,6 @@
     alt="Profile Views Counter" 
   />
   
-  <br/>
+  
   
 </div>
