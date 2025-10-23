@@ -119,5 +119,33 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divine-P-77777&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views Counter" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Divine-P-77777&show_icons=true&include_all_commits=true&theme=dracula&border_color=00ffff&icon_color=00ffff&title_color=00ffff" 
+    height="140" 
+    style="max-width: 100%; border-radius: 10px; border: 1px solid #00ffff; box-shadow: 0 0 8px #00ffff;" 
+    alt="GitHub stats" 
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=Divine-P-77777&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&background=0D1117&currStreakNum=00FFFF&sideLabels=FFFFFF&dates=00FFFF&exclude_days=Sun&cache_buster=1" 
+    height="140" 
+    style="max-width: 100%; border-radius: 10px; border: 1px solid #00ffff; box-shadow: 0 0 8px #00ffff;" 
+    alt="GitHub streak" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-P-77777&layout=compact&langs_count=6&theme=dracula&border_color=00ffff&title_color=00ffff" 
+    height="140" 
+    style="max-width: 100%; border-radius: 10px; border: 1px solid #00ffff; box-shadow: 0 0 8px #00ffff;" 
+    alt="Top Languages" 
+  />
+
+  <br/>
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=Divine-P-77777&label=Profile%20Views&color=00FFFF&style=for-the-badge&start=1000" 
+    alt="Profile Views Counter" 
+  />
+
 </div>
