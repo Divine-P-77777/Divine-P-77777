@@ -10,7 +10,7 @@
 # 👋 Hi! I'm **Deepak Prasad**  
 ### 💻 Full Stack Developer from Bharat 🇮🇳
 
-🚀 **Explore my portfolio:** [DeepakPrasad.xyz](https://DeepakPrasad.xyz)
+🚀 **Explore my portfolio:** [Dynamicphillic.vercel.app](https://dynamicphillic.vercel.app)
 
 ---
 
